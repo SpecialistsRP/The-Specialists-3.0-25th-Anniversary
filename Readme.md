@@ -1,5 +1,5 @@
 # The Specialists 3.0 Mod - 25th Anniversary Edition Fix
-This repository contains the Windows client build version of The Specialists 3.0 mod with necessary edits to make it compatible with the 25th Anniversary update of Half-Life. The original TS3.0 version this is basedon, is located at https://www.moddb.com/mods/the-specialists/downloads/the-specialists-v30-client-windows
+This repository contains the Windows client build version of The Specialists 3.0 mod with necessary edits to make it compatible with the 25th Anniversary update of Half-Life.
 
 ## Table of Contents
 - [About](#about)
@@ -8,6 +8,7 @@ This repository contains the Windows client build version of The Specialists 3.0
 - [Changelog](#changelog)
 - [Contributing](#contributing)
 - [Contact](#contact)
+- [Original Files](#original)
 
 ## About
 The Specialists is a modification for Half-Life, renowned for its fast-paced, cinematic action gameplay. This repository addresses compatibility issues introduced with the 25th Anniversary update of Half-Life. Our goal is to ensure that The Specialists 3.0 mod continues to run smoothly on updated systems.
@@ -63,3 +64,6 @@ We welcome contributions to improve this project, on the condition they do not b
 
 ## Contact
 For issues, questions, or suggestions, please open an issue in the repository
+
+## Original Files
+The original TS3.0 version this is basedon, is located at https://www.moddb.com/mods/the-specialists/downloads/the-specialists-v30-client-windows
