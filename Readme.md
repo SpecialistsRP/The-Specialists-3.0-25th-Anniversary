@@ -27,11 +27,11 @@ WARNING! BACK UP YOUR ORIGINAL TS FOLDER FIRST! Follow these steps to install th
       ```
 
 3. **Overwrite Existing Files:**
-    - When prompted, overwrite existing files to apply the fixes.
+    - When prompted, overwrite existing files.
 
 4. **Launch the Mod:**
-    - Start Half-Life through Steam.
-    - Select The Specialists mod from the game menu.
+    - Restart Steam.
+    - Select The Specialists mod from the Steam game library.
 
 ## Features
 - Compatibility fixes for the 25th Anniversary update of Half-Life.
