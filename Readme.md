@@ -8,7 +8,7 @@ This repository contains the Windows client build version of The Specialists 3.0
 - [Changelog](#changelog)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [Original Files](#original)
+- [Original Files](#original-files)
 
 ## About
 The Specialists is a modification for Half-Life, renowned for its fast-paced, cinematic action gameplay. This repository addresses compatibility issues introduced with the 25th Anniversary update of Half-Life. Our goal is to ensure that The Specialists 3.0 mod continues to run smoothly on updated systems.
